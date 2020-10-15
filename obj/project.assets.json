@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\inaki\\.nuget\\packages\\": {}
+    "C:\\Users\\alumno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\fabricantevendedor\\fabricantevendedor.csproj",
+      "projectUniqueName": "C:\\Projects\\csharp\\fabricantevendedor\\Fabricante-Vendedor\\fabricantevendedor.csproj",
       "projectName": "fabricantevendedor",
-      "projectPath": "F:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\fabricantevendedor\\fabricantevendedor.csproj",
-      "packagesPath": "C:\\Users\\inaki\\.nuget\\packages\\",
-      "outputPath": "F:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\fabricantevendedor\\obj\\",
+      "projectPath": "C:\\Projects\\csharp\\fabricantevendedor\\Fabricante-Vendedor\\fabricantevendedor.csproj",
+      "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\csharp\\fabricantevendedor\\Fabricante-Vendedor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\inaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

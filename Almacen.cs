@@ -18,13 +18,14 @@ namespace fabricantevendedor
         {
             lock (bloqueo)
             {
+
                 this._contador++;
                 long currentTime = DateTimeOffset.UtcNow.ToUnixTimeMilliseconds();
                 Console.WriteLine("+ {0} {1} Guarda.  Almacen {2}",
                     Thread.CurrentThread.ManagedThreadId,
                     (currentTime - this._initTime).ToString().PadLeft(5),
                     this._contador);
-                Monitor.Pulse(bloqueo);
+                Monitor.PulseAll(bloqueo);
             }
         }
         public void Sacar()
@@ -47,7 +48,7 @@ namespace fabricantevendedor
                     Thread.CurrentThread.ManagedThreadId,
                     (currentTime - this._initTime).ToString().PadLeft(5),
                     this._contador);
-                Monitor.Pulse(bloqueo);
+                Monitor.PulseAll(bloqueo);
             }
         }
     }
