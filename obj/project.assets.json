@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\csharp\\fabricantevendedor\\Fabricante-Vendedor\\fabricantevendedor.csproj",
+      "projectUniqueName": "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\fabricantevendedor\\fabricantevendedor.csproj",
       "projectName": "fabricantevendedor",
-      "projectPath": "C:\\Projects\\csharp\\fabricantevendedor\\Fabricante-Vendedor\\fabricantevendedor.csproj",
+      "projectPath": "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\fabricantevendedor\\fabricantevendedor.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\csharp\\fabricantevendedor\\Fabricante-Vendedor\\obj\\",
+      "outputPath": "E:\\Desarrollo de aplicaciones multiplataforma\\projects\\csharp\\fabricantevendedor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",

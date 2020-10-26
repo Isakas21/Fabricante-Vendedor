@@ -11,3 +11,16 @@ F:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor
 F:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.dll
 F:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.pdb
 F:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.genruntimeconfig.cache
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.csprojAssemblyReference.cache
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.AssemblyInfoInputs.cache
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.AssemblyInfo.cs
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.csproj.CoreCompileInputs.cache
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.dll
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.pdb
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.exe
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.deps.json
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.runtimeconfig.json
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.runtimeconfig.dev.json
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.dll
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\bin\Debug\netcoreapp3.1\fabricantevendedor.pdb
+E:\Desarrollo de aplicaciones multiplataforma\projects\csharp\fabricantevendedor\obj\Debug\netcoreapp3.1\fabricantevendedor.genruntimeconfig.cache

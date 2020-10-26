@@ -13,8 +13,8 @@ namespace fabricantevendedor
         public Fabricante(Almacen a, int ms_fabricar, int cantidad)
         {
             this._a = a;
-            this.ms_fabricar = ms_fabricar
-            this.cantidad = cantidad
+            this.ms_fabricar = ms_fabricar;
+            this.cantidad = cantidad;
         }
 
         public void Fabrica()

@@ -13,8 +13,8 @@ namespace fabricantevendedor
         public Vendedor(Almacen a, int ms_vender, int cantidad)
         {
             this._a = a;
-            this.ms_vender = ms_vender
-            this.cantidad = cantidad
+            this.ms_vender = ms_vender;
+            this.cantidad = cantidad;
         }
 
         public void Vende()
